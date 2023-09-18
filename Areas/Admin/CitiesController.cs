@@ -18,6 +18,7 @@ namespace DiabetesController.Areas.Admin
         public CitiesController(DiabetesControllerContext context)
         {
             _context = context;
+
         }
 
         // GET: Admin/Cities
